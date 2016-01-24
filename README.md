@@ -9,7 +9,7 @@ wich you can simply insert with
 
 #> insmod bsc-slave.ko
 
-It is compiled for the kernel version 3.18.12-v7+
+It is compiled for the kernel version 4.1.13+
 
 If you d'ont have this kernel version (verify with: uname -r)you need to 
 compile the module yourself. This is what the Makefile is for. 
